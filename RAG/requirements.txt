@@ -1,0 +1,13 @@
+# Download model or OpenAI API, install dependencies
+langchain
+transformers
+sentence-transformers
+faiss-cpu
+PyPDF2
+sentencepiece
+protobuf
+intel_extension_for_transformers
+accelerate
+datasets
+peft
+chroma
