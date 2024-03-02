@@ -9,4 +9,5 @@ protobuf
 accelerate
 datasets
 peft
-chroma
+chromadb
+llama-cpp-python
