@@ -1,4 +1,3 @@
-# Download model or OpenAI API, install dependencies
 langchain
 transformers
 sentence-transformers
@@ -11,3 +10,5 @@ datasets
 peft
 chromadb
 llama-cpp-python
+langchain-community
+pypdf
