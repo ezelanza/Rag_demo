@@ -1,1 +1,43 @@
-/home/ec2-user/mnt/Rag_demo/RAG/basic_langchain
+# Ignore model files and vector databases
+meta-llama/
+basic_langchain/
+RAG/meta-llama/
+RAG/basic_langchain/
+
+# Ignore any downloaded models
+*.bin
+*.safetensors
+model.onnx
+
+# Ignore vector database files
+*.sqlite
+*.sqlite3
+chroma_storage/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log

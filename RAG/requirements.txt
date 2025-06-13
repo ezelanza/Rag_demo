@@ -3,7 +3,6 @@ transformers
 sentence-transformers
 faiss-cpu
 PyPDF2
-sentencepiece
 protobuf
 accelerate
 datasets
@@ -12,3 +11,5 @@ chromadb
 llama-cpp-python
 langchain-community
 pypdf
+huggingface_hub
+sentencepiece
