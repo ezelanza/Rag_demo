@@ -1,4 +1,6 @@
 langchain
+langchain-core
+langchain-community
 transformers
 sentence-transformers
 faiss-cpu
@@ -9,7 +11,7 @@ datasets
 peft
 chromadb
 llama-cpp-python
-langchain-community
 pypdf
 huggingface_hub
 sentencepiece
+python-dotenv

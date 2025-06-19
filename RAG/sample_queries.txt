@@ -1,0 +1,10 @@
+What is DRAGON?
+How does the resource scheduler work?
+What are the main components of the system?
+What is Kubernetes used for in this context?
+Explain the distributed deep learning training process
+What are the benefits of using containerized applications?
+How does the scheduler handle resource allocation?
+What is the difference between gang scheduling and autoscaling?
+What technologies are mentioned in the paper?
+What are the main challenges addressed by this system? 
